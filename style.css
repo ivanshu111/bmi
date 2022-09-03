@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  margin: 3%;
+  margin-top: 6%;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 800;
+  line-height: 1.5;
+  font-size: 3rem;
+  color: darkblue;
+}
+body {
+  text-align: center;
+  background-color: silver;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: darkslategray;
+}
+input {
+  width: 470px;
+  height: 28px;
+  text-align: center;
+  box-shadow: 10px;
+}
+#btn {
+  width: 480px;
+  height: 28px;
+  border-radius: 5%;
+  background-color: darkblue;
+  color: white;
+  border: none;
+  box-shadow: 3px;
+}
+.reset {
+  width: 480px;
+  height: 28px;
+  border-radius: 5%;
+  background-color: darkblue;
+  color: white;
+  border: none;
+  padding-bottom: 4px;
+}
+.container {
+  border-style: groove;
+  border-radius: 10%;
+  border-spacing: 3px;
+}
